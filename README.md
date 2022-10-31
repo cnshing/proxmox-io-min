@@ -3,9 +3,13 @@
 
 ## References
 [Proxmox on a SD card](https://github.com/iacsvrn/ru_proxmox/blob/master/proxmox-on-flash-drive.md)
+
 [log2ram](https://github.com/azlux/log2ram)
+
 [Minimizing SSD wear through PVE configuration changes](https://forum.proxmox.com/threads/minimizing-ssd-wear-through-pve-configuration-changes.89104/)
+
 [Proxmox RRD Data Sources](https://forum.proxmox.com/threads/list-of-rrd-graph-datasource-ds.106667/)
+
 [rrdcached](https://oss.oetiker.ch/rrdtool/doc/rrdcached.en.html)
 
 ## Assumptions
